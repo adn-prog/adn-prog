@@ -1,24 +1,39 @@
-# Florae Online Shop
+# Welcome to Adnan Rafael's GitHub 👋
 
-Florae is a women’s sandal slipper brand offering stylish and comfortable products made from high-quality materials. This repository includes the code and assets for managing the online store, which is built to operate on various e-commerce platforms like TikTok, Instagram, and Shopee.
+Hi there! I'm Adnan Rafael, always on a journey to learn new things and improve my skills in web development and programming.
 
-## Features
+## About Me
 
-- Product management for Florae sandal slippers (sizes 36 to 40).
-- Integration with online platforms for product listings and sales.
-- Tools for stock and order management.
-- Admin functionalities to handle customer communication and updates.
+- 💻 **Currently Learning**: Improving my skills in JavaScript while mastering HTML and CSS.
+- 📚 **Intermediate in**: HTML, C++, and learning JavaScript.
+- 🌱 **Fun Fact**: I love combining my knowledge of software engineering with creativity, like designing web pages and exploring productivity hacks.
+- 💡 **Ask me about**: My experience as a translator, HR assistant, or as a software engineering graduate. I’m always excited to share!
 
-## Installation
+## My Skills
 
-To set up the project locally, follow these steps:
+- **HTML**: I’m comfortable with creating clean, structured web pages.
+- **CSS**: Styling web pages to make them visually appealing.
+- **C++**: Strong understanding of syntax and problem-solving.
+- **JavaScript**: Learning and growing every day!
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/florae-online-shop.git
+## Let's Connect
 
-# Navigate to the project directory
-cd florae-online-shop
+Feel free to reach out if you'd like to talk about:
+- 💻 Web development projects
+- 🌍 Translation work (English, Arabic, Indonesian)
+- 🎓 My journey as a Software Engineering graduate
+- 🧠 Self-improvement tips or productivity hacks
 
-# Install necessary dependencies
-npm install
+Check out my repos, and let's learn together! 🚀
+
+## Fun Facts
+
+- I recently got engaged and am enjoying balancing my personal life with work and learning!
+- My favorite hobby is reading books, especially those about personal development.
+
+## Projects
+
+- 🌐 **Florae Online Shop**: My ongoing project to develop a business that sells stylish sandal slippers for women.
+- 💡 **YouTube Channel**: Coming soon! Focused on productivity, self-confidence, and stepping out of the comfort zone.
+
+Thanks for visiting! Let's make something amazing together!
