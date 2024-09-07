@@ -1,39 +1,22 @@
-# Welcome to Adnan Rafael's GitHub 👋
+# Welcome to Adnan Rafael's GitHub! 👋
 
-Hi there! I'm Adnan Rafael, always on a journey to learn new things and improve my skills in web development and programming.
+Hi there, I'm Adnan Rafael. Who is Rafael? Well, that's part of the mystery! 😄 But what's no mystery is that I'm always on a journey to learn new things and improve myself every day.
 
 ## About Me
 
-- 💻 **Currently Learning**: Improving my skills in JavaScript while mastering HTML and CSS.
-- 📚 **Intermediate in**: HTML, C++, and learning JavaScript.
-- 🌱 **Fun Fact**: I love combining my knowledge of software engineering with creativity, like designing web pages and exploring productivity hacks.
-- 💡 **Ask me about**: My experience as a translator, HR assistant, or as a software engineering graduate. I’m always excited to share!
+- 💻 **Currently Learning**: Always diving into JavaScript, HTML, and CSS to build better web experiences.
+- 🌱 **On a Journey**: I’m passionate about learning and growing in the field of web development and programming.
 
-## My Skills
+## Ask Me About
 
-- **HTML**: I’m comfortable with creating clean, structured web pages.
-- **CSS**: Styling web pages to make them visually appealing.
-- **C++**: Strong understanding of syntax and problem-solving.
-- **JavaScript**: Learning and growing every day!
-
-## Let's Connect
-
-Feel free to reach out if you'd like to talk about:
-- 💻 Web development projects
-- 🌍 Translation work (English, Arabic, Indonesian)
-- 🎓 My journey as a Software Engineering graduate
-- 🧠 Self-improvement tips or productivity hacks
-
-Check out my repos, and let's learn together! 🚀
+- My experience with **CSS** and **HTML** (Intermediate).
+- Translating between **English**, **Arabic**, and **Indonesian**.
+- Balancing life, learning, and work as a Software Engineering graduate.
 
 ## Fun Facts
 
-- I recently got engaged and am enjoying balancing my personal life with work and learning!
-- My favorite hobby is reading books, especially those about personal development.
+- I recently got engaged! 😄
+- I love reading books, especially about self-improvement and personal growth.
+- I have a deep passion for learning and building new things, whether it’s coding or creating content.
 
-## Projects
-
-- 🌐 **Florae Online Shop**: My ongoing project to develop a business that sells stylish sandal slippers for women.
-- 💡 **YouTube Channel**: Coming soon! Focused on productivity, self-confidence, and stepping out of the comfort zone.
-
-Thanks for visiting! Let's make something amazing together!
+Thanks for stopping by! Feel free to explore and reach out if you want to chat or collaborate.
