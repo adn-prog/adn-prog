@@ -2,7 +2,7 @@
 
 Hi there, I am Adnan. Always on a journey to learn and improve myself. I'm passionate about web development, especially front-end programming.
 
-## About Me
+# About Me
 
 - 💻 **Currently Learning**: JavaScript
 - 🌱 **Intermediate in**: HTML and CSS
